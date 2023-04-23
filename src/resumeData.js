@@ -1,6 +1,6 @@
 let resumeData = {
    
-    "name": "NANDANA P",
+    "name": "NETRA V",
     "role": "Student at Sri Krishna college of Engineering and Technology",
   
     "roleDescription": "A Student who like to learn new technologies in this emerging world and create something new that would change this world",
